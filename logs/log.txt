@@ -1,0 +1,2 @@
+
+- [Sun, 16 Jun 19 14:52:04 +0000]	debug:	exit blade.login.php	@file:"C:\wamp64\www\digital_university\util\class.util.inc", object:"LogUtil", line:420
