@@ -15,6 +15,6 @@ Features that is included:
 4. There are the Navigation Bar in every pages. Now from the Navigation Bar user can access any pages from any other pages.
 
 Group Members:
-Amrita Ghosh Mugdha; ID: 170235
-Md. Raihanoor Farid; ID: 170218
-Md. A. Tuhin;        ID: 170214
+Amrita Ghosh Mugdha, ID: 170235;
+Md. Raihanoor Farid, ID: 170218;
+Md. A. Tuhin,        ID: 170214;
